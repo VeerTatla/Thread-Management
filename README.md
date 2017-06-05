@@ -5,6 +5,7 @@ Josh Robey cssc1126
 CS570 Operating Systems, Summer 2017
 Assignment #1: Thread management
 
+*TESTING* use Veer Tatla class account cssc1153 for testing!
 
 File Manifest:
 1.) bots.c -----> Main program that does work for managing threads.
