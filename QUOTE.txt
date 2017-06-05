@@ -1,0 +1,41 @@
+Parent process id: 17225
+Thread id 0 < 1676891904 >. Controlling complexity is the essence of computer programming.
+Thread id 1 < 1668499200 >. Computer science is no more about computers than astronomy is about telescopes.
+Thread id 2 < 1660106496 >. Controlling complexity is the essence of computer programming.
+Thread id 2 < 1660106496 >. Controlling complexity is the essence of computer programming.
+Thread id 2 < 1660106496 >. Controlling complexity is the essence of computer programming.
+Thread id 2 < 1660106496 >. Controlling complexity is the essence of computer programming.
+Thread id 2 < 1660106496 >. Controlling complexity is the essence of computer programming.
+Thread id 2 < 1660106496 >. Controlling complexity is the essence of computer programming.
+Thread id 1 < 1668499200 >. Computer science is no more about computers than astronomy is about telescopes.
+Thread id 3 < 1651713792 >. Computer science is no more about computers than astronomy is about telescopes.
+Thread id 3 < 1651713792 >. Computer science is no more about computers than astronomy is about telescopes.
+Thread id 3 < 1651713792 >. Computer science is no more about computers than astronomy is about telescopes.
+Thread id 3 < 1651713792 >. Computer science is no more about computers than astronomy is about telescopes.
+Thread id 3 < 1651713792 >. Computer science is no more about computers than astronomy is about telescopes.
+Thread id 3 < 1651713792 >. Computer science is no more about computers than astronomy is about telescopes.
+Thread id 1 < 1668499200 >. Computer science is no more about computers than astronomy is about telescopes.
+Thread id 4 < 1643321088 >. Controlling complexity is the essence of computer programming.
+Thread id 4 < 1643321088 >. Controlling complexity is the essence of computer programming.
+Thread id 4 < 1643321088 >. Controlling complexity is the essence of computer programming.
+Thread id 4 < 1643321088 >. Controlling complexity is the essence of computer programming.
+Thread id 4 < 1643321088 >. Controlling complexity is the essence of computer programming.
+Thread id 4 < 1643321088 >. Controlling complexity is the essence of computer programming.
+Thread id 1 < 1668499200 >. Computer science is no more about computers than astronomy is about telescopes.
+Thread id 5 < 1634928384 >. Computer science is no more about computers than astronomy is about telescopes.
+Thread id 5 < 1634928384 >. Computer science is no more about computers than astronomy is about telescopes.
+Thread id 5 < 1634928384 >. Computer science is no more about computers than astronomy is about telescopes.
+Thread id 5 < 1634928384 >. Computer science is no more about computers than astronomy is about telescopes.
+Thread id 5 < 1634928384 >. Computer science is no more about computers than astronomy is about telescopes.
+Thread id 5 < 1634928384 >. Computer science is no more about computers than astronomy is about telescopes.
+Thread id 1 < 1668499200 >. Computer science is no more about computers than astronomy is about telescopes.
+Thread id 6 < 1626535680 >. Controlling complexity is the essence of computer programming.
+Thread id 6 < 1626535680 >. Controlling complexity is the essence of computer programming.
+Thread id 6 < 1626535680 >. Controlling complexity is the essence of computer programming.
+Thread id 6 < 1626535680 >. Controlling complexity is the essence of computer programming.
+Thread id 6 < 1626535680 >. Controlling complexity is the essence of computer programming.
+Thread id 6 < 1626535680 >. Controlling complexity is the essence of computer programming.
+Thread id 1 < 1668499200 >. Computer science is no more about computers than astronomy is about telescopes.
+Thread id 0 < 1676891904 >. Controlling complexity is the essence of computer programming.
+Thread id 0 < 1676891904 >. Controlling complexity is the essence of computer programming.
+Thread id 0 < 1676891904 >. Controlling complexity is the essence of computer programming.
